@@ -1,0 +1,1000 @@
+<div class="rich_media_content" id="js_content">
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 94%;vertical-align: top;overflow: hidden;height: 90px;border-style: solid;border-width: 0px;border-radius: 5px;border-color: rgb(164, 197, 244);padding-right: 10px;padding-left: 10px;box-shadow: rgb(133, 134, 135) 0px 0px 2px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;width: 23%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;font-size: 13px;box-sizing: border-box;">
+          <section style="width: 5em;height: 5em;display: inline-block;border-radius: 100%;padding: 3px;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);background: -webkit-linear-gradient(bottom, rgb(95, 156, 239), rgba(255, 247, 234, 0)) rgb(132, 246, 224);box-sizing: border-box;">
+           <section style='width: 100%;height: 100%;transform: rotate(45deg);border-radius: 100%;background-position: center center;background-repeat: no-repeat;background-size: cover;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/jNibHMrCMWaYt7BDP8zp64VksfAOWXMqe3xHFlC41NWRibibrt7GicDRmCwQZJJ7zTicZ66lVxQcpNzdVSRqhRqDqfw/640?wx_fmt=jpeg");box-sizing: border-box;'>
+            <section style="width: 100%;height: 100%;overflow: hidden;box-sizing: border-box;">
+             <img data-ratio="1" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/jNibHMrCMWaYt7BDP8zp64VksfAOWXMqe3xHFlC41NWRibibrt7GicDRmCwQZJJ7zTicZ66lVxQcpNzdVSRqhRqDqfw/640?wx_fmt=jpeg" data-type="jpeg" data-w="640" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;width: 57%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             链闻ChainNews
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-98718-1517277466565" style="text-align: justify;font-size: 12px;color: rgb(72, 72, 72);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-family: PingFangTC-light;box-sizing: border-box;">
+             公众号ID：chainnewscom
+             <br style="box-sizing: border-box;"/>
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;width: 20%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-color: rgb(113, 215, 0);border-width: 0px;border-radius: 0px;border-style: none;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_gif/jNibHMrCMWaYt7BDP8zp64VksfAOWXMqegF72eCYQBkNxzHxZJOdpfGP71nzGMZ7exKgZ6uZT65WG0hIvAv87Zw/640?wx_fmt=gif" data-type="gif" data-w="400" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="font-size: 0px;box-sizing: border-box;">
+     <img data-ratio="1" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYt7BDP8zp64VksfAOWXMqeQnwezS3rUVHM5iacjTd0GV6UzZCGZweZyiaBQZ0paY8Wd95xEeW1Fs0g/640?wx_fmt=png" data-type="png" data-w="500" style="opacity: 0;vertical-align: top;display: inline-block;margin-top: -90px;height: 90px;max-height: 90px;min-height: 90px;width: 94%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="white-space: normal;max-width: 100%;min-height: 1em;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <blockquote class="js_blockquote_wrap" data-author-name="" data-content-utf8-length="33" data-source-title="" data-type="2" data-url="">
+  <section class="js_blockquote_digest">
+   <p style="margin-left: 8px;margin-right: 8px;">
+    技术问题最容易解决，让人们相信区块链运动背后的意识形态是最困难的。
+   </p>
+  </section>
+ </blockquote>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <em style='color: rgb(136, 136, 136);font-size: 14px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+   撰文：Kerman Kohli，8x Protocol 创始人
+  </em>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 14px;color: rgb(136, 136, 136);">
+   <em>
+    编译：詹涓
+   </em>
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   虽然我们时代的其他技术也都具有创新性，但是
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   加密技术则是唯一真正具有颠覆性的技术
+  </span>
+  <span style="font-size: 15px;">
+   。人工智能、移动互联网、虚拟现实进一步巩固了今天市场玩家的地位，但是加密货币或者区块链技术并不只是你可以在组织和产品中实现的另一种功能。
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   因为有了加密货币和区块链技术，不管身处何地、过去的成就或地位如何，没有人真正知道未来会发生什么。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 17px;color: rgb(0, 82, 255);">
+   <strong>
+    今天
+   </strong>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   首先也是最重要的一点是，
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   区块链让世界各地的人在不一定信任彼此的情况下可以实现协调并达成共识
+  </span>
+  <span style="font-size: 15px;">
+   。这些协议随后以代码的形式进行翻译。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   在我们目前所处的历史阶段，只有两条有意义的区块链可以谈论：比特币和以太坊。为什么是这两个？因为没有其他任何区块链向保障网络安全的矿工支付超过 1 万美元。比特币网络支付约 50 万美元，以太坊支付约 5 万美元。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   已有 10 年历史的
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    比特币
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   是一种范式转变，因为它是第一个任何国家都无法控制的经济体。这是一项将铭刻于史册的成就。比特币必须克服币圈以外的人的怀疑。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   问世 4 年的
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    以太坊
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   是因为比特币的僵化和不够灵活而产生的，它可以创建一个状态执行机器，即智能合约。由于有能力发行定制数字货币，它在 2017 年声名鹊起。具有讽刺意味的是，以太坊必须克服那些比特币死忠粉丝的怀疑。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   今天发明的技术中，没有一项能让其产品市场适应互联网应用的规模。相反，人们在一波波浪潮中总是先兴奋无比、后失望而归。我通过两股浪潮来观察加密技术，分别是
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   投机浪潮（Speculative Waves）
+  </span>
+  <span style="font-size: 15px;">
+   和
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   世代浪潮（Generational Waves）。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 17px;color: rgb(0, 82, 255);">
+   <strong>
+    投机浪潮 Speculative Waves
+   </strong>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 17px;color: rgb(0, 82, 255);">
+   <strong>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.68" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8Jxgy4HVM4n9PGdib0PI4GEIZJx5dHGXqwT77mMIZjujewLuibpBAEjeg/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   我真的相信大多数加密圈子里的人并没有看到并感激这些市场的循环特性。没有它们，人们就没有理由参与进来，去尝试一种坦白来讲还未达预期的技术。
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.56" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8O9KRp3rOHmxeUH6CjKIevgsg7a6Qd80RzTjknb7xA7EMruVTVrDx5w/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   大多数人，包括我自己，都有类似的经历：先是被淘金热吸引，随着时间的推移留了下来，好进行更广泛的学习。如果你把它看作是漏斗，顺序就是这样的：
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    投机者-&gt; 用户-&gt; 建设者（设计师、产品经理、开发人员）-&gt; 创业家
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   。随着时间的推移，这个群体的数量会迅速减少，但随着几十年后人们到达终点，结果会越来越复杂。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.56125" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8FPyiaOaVAaRQ76qSTYhnJN0ge04KsibAHxPib0onPEFfAwym7z20sJWmg/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   浪潮的强大力量在于它影响了大众的心理，创造了暂时的共识——「相信区块链将改变世界」，然后允许这些人在炒作结束后重新评估他们的信仰——「哎，慢着，这项技术到底是关于什么的？」
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   大多数人都不会留下来，这也没什么。
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   生活和塑造世界的新方式实际上需要几十年时间才能成型
+  </span>
+  <span style="font-size: 15px;">
+   。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 17px;color: rgb(0, 82, 255);">
+   <strong>
+    加密世代
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.56" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH80OPz7ufaPdRG3KALkLrPQF6qibj6G26opDRvFyCc3mPicfIbFPqqJP9w/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   「世代浪潮」一词指的是技术的状态及其应用方式。每一代人都带来有趣的新想法、更明确的方向和疯狂的价格波动，以吸引并清洗数以百万计的人。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="color: rgb(0, 82, 255);">
+   <strong>
+    <span style="font-size: 15px;">
+     2008-2016：先锋一代 Pioneer generation
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="color: rgb(0, 82, 255);">
+   <strong>
+    <span style="font-size: 15px;">
+     <br/>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.49375" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8DQibV72tEiamOibZanxNWdHGbNJNlUL6ED7Gp9g6gqTCmGWcB7sQ1wwEQ/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   我将
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   第一波浪潮描述为「先锋一代」——希望与真正的全球点对点现金系统进行交易的人
+  </span>
+  <span style="font-size: 15px;">
+   。在此期间，
+  </span>
+  <strong>
+   <span style="font-size: 15px;color: rgb(0, 82, 255);">
+    工作证明 PoW
+   </span>
+  </strong>
+  <span style="font-size: 15px;">
+   作为一个全新的概念被引入，数字货币交易所是一个新奇的概念，消费者钱包以前从未出现过，而采矿是一个非常新的概念。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   一切都围绕着比特币
+  </span>
+  <span style="color: rgb(136, 136, 136);">
+   <em>
+    <span style="font-size: 14px;">
+     （支持服务和产品）
+    </span>
+   </em>
+  </span>
+  <span style="font-size: 15px;">
+   展开，规模扩张并不是真正的问题，对技术可行性的怀疑可能正处于顶峰。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   到了 2011-2013 年期间，比特币论坛上的先驱者们想象出了很多我们现在看到的游戏。当时和现在的唯一区别是我们现在拥有很多使这些想象成为现实的技术。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   一个观察是，该领域的许多公司或项目在这两个世代
+  </span>
+  <span style="color: rgb(136, 136, 136);">
+   <em>
+    <span style="color: rgb(136, 136, 136);font-size: 14px;">
+     （链闻注：指「先锋一代」和下文阐述的「迁移者一代」）
+    </span>
+   </em>
+  </span>
+  <span style="font-size: 15px;">
+   中都很难站稳脚跟。
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    Coinbase
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   正试图通过 Coinbase 钱包成为迁移者一代的一部分。
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    币安
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   的机会面更大，但它是否能做出真正去中心化的产品，还是存疑的。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   这并不是说这些企业将不会继续盈利或未来将不会盈利，只是说它们在当前或下一代技术创新方面都并没有处在领先地位。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="color: rgb(0, 82, 255);">
+   <strong>
+    <span style="font-size: 15px;">
+     2016-2024：迁移者一代 Settlers Generation
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.5625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8jlDev3ZVN6zgY72gYleYy8oaQRxANKz8HxBJCwARs23EnaA77I8E0g/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   我们现在正处于
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   第二波浪潮中，也就是我所说的「迁移者一代」，在个浪潮中，早期的创业者和开发者们梦想着如何将世界带入未来
+  </span>
+  <span style="font-size: 15px;">
+   。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   在这一点上，我们正在试验共识算法，我们有更具表现力的平台
+  </span>
+  <span style="color: rgb(136, 136, 136);">
+   <em>
+    <span style="color: rgb(136, 136, 136);font-size: 14px;">
+     （比如
+     <strong>
+      以太坊
+     </strong>
+     ）
+    </span>
+   </em>
+  </span>
+  <span style="font-size: 15px;">
+   ，我们正在研究的产品是新颖的，在它们的领域内，游戏规则正在发生变化。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   区块链的伸缩性和外界的监管是未来五年内我相信会解决的主要问题，我们的目标是缩小理论与现实之间的差距。加密社区有许多「部落」，在 2017 年受到主流关注后，这个社区的规模更大。怀疑论围绕的是产品是否适合市场，而不是关注技术本身。
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   我们面临的挑战是如何使区块链这项技术成为下一代的实用技术。产品市场契合度是加密技术最难的阶段之一，因为没有它，我们将无法让更多人应用这项技术。
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   在改善区块链的伸缩性方面，目前有以下方法可以让技术准备就绪，同时找到合适的产品市场
+  </span>
+  <span style="font-size: 15px;">
+   ：
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <ul class="list-paddingleft-2" style="list-style-type: square;margin-left: 8px;margin-right: 8px;">
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="color: rgb(0, 82, 255);font-size: 15px;">
+     <strong>
+      公链的竞争
+     </strong>
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   区块链之间的竞争可以解决现有赢家存在的问题
+  </span>
+  <span style="font-size: 15px;">
+   。通常可以听到的说法是：这里有一条 X 链，它的速度和可扩展性是 Z 的 Y 倍。这种描述方法通常会把区块链视为一种「代码库」，而不是一种活生生的社会实体。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   到目前为止，我们还没有在比特币或以太坊所专长的领域看到任何与之有丝毫接近的东西。似乎围绕着底层区块链形成大规模协调的唯一方法，是提供一个新的范式。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="1.014965986394558" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8hDeBFuLCBR3Tia1Micic7NvCD2kDeJFvAts2ar67Snto8sxiboYUHXR8ow/640?wx_fmt=png" data-type="png" data-w="735" style="width: 383px;height: 388px;"/>
+ </p>
+ <p style="text-align: center;">
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <ul class="list-paddingleft-2" style="list-style-type: square;margin-left: 8px;margin-right: 8px;">
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="color: rgb(0, 82, 255);font-size: 15px;">
+     <strong>
+      跨链
+     </strong>
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   在跨链生态中，不同系统之间可以相互通信，而在区块链底层需要较少的全球协调。
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    Cosmos
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   和
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   <strong>
+    Polkadot
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   是赢得这场竞赛的有力竞争者，它们在安全和治理方面都有各自的权衡。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   为了限制本文的范围，我不会太详细地讨论区块链之间的竞争和跨链实现的问题。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <ul class="list-paddingleft-2" style="list-style-type: square;margin-left: 8px;margin-right: 8px;">
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="color: rgb(0, 82, 255);font-size: 15px;">
+     <strong>
+      Layer 2
+     </strong>
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   Layer 2 生态系统变得更加复杂，相关工作也在更高的堆栈上完成
+  </span>
+  <span style="font-size: 15px;">
+   。比特币在 Layer 2 有闪电网络 Lightning 和 Liquid，但赢家是以太坊。以太坊在状态通道、plasma、侧链以及更多创新方面涌现的速度之快，超出了大多数人的预计。
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   两、三年前，才引入了在底层区块链之上创建层的想法。
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   所有 Layer 2 解决方案的基本思想都是在互操作性或安全性方面
+  </span>
+  <span style="color: rgb(136, 136, 136);">
+   <em>
+    <span style="color: rgb(136, 136, 136);font-size: 14px;">
+     （有时两者都是）
+    </span>
+   </em>
+  </span>
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   利用底层区块链
+  </span>
+  <span style="font-size: 15px;">
+   。以下是我们目前所知的各种方法：
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <ul class="list-paddingleft-2" style="list-style-type: circle;margin-left: 8px;margin-right: 8px;">
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="font-size: 15px;color: rgb(0, 82, 255);">
+     <strong>
+      状态通道
+     </strong>
+    </span>
+    <span style="font-size: 15px;">
+     。将抵押物存放在一个枢纽（hub），双方可以互相进行交易。有时这些通道被设置为 hub。从路由的角度来看，与不属于该 hub 一部分的人进行交易通常很困难。一些实现会要求 hub 的拥有者存入与正在进行的交易金额相同的抵押物，这对于诸如游戏、博彩等用例来说很适用。但对于全球支付来说，这不是一个简单的解决方案（当然，有些人可能不同意）。可参见：Connext、L4 通用状态通道、闪电网络、Celer Network
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="color: rgb(0, 82, 255);">
+     <strong>
+      <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+       侧链
+      </span>
+     </strong>
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     。将链与底层链完全分离，但允许与之互操作，从而扩展生态系统。这些链不继承其底层区块链的安全性，不过可以定期提交检查点，确保在出现任何问题时可以还原侧链。可参见：Skale Labs
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="color: rgb(0, 82, 255);">
+     <strong>
+      <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+       Plasma
+      </span>
+     </strong>
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     。类似于侧链，但具有底层链完整的安全性。任何双花或 51% 攻击都不会导致资金在底层链中丢失。许多人对此持怀疑态度，但是随着许多用户体验问题快速被解决，Plasma Cash 和 Plasma MVP 获得了接受。主要的缺点是在短期内不可能创造出比支付更加让人眼前一亮的应用。参见：Matic、Loom
+    </span>
+   </p>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+    </span>
+   </p>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="color: rgb(0, 82, 255);">
+   <strong>
+    <span style="color: rgb(0, 82, 255);font-size: 15px;">
+     2024–2032 以后：扩张一代 Expansion generation
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="color: rgb(0, 82, 255);">
+   <strong>
+    <span style="color: rgb(0, 82, 255);font-size: 15px;">
+     <br/>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.5625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH8p9SzGHZZlejOrK840clPHtSESic5QUcedwK8jYtMsxqnXewwKiaJen4Q/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   第三波浪潮将是「扩张一代」：加密技术在全球产生真正的、切实的影响
+  </span>
+  <span style="font-size: 15px;">
+   。过去的承诺将以更实际的方式开始成为现实。可扩展性、隐私和监管相关的问题将在很大程度上被解决。我们还将迎来在数字世界长大成人的新一代年轻人，互联网原生货币的概念是意料之中的事情。在这一点上，后来的一批采用者将争先恐后地赶上来，但这艘船本来就会起航。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;color: rgb(0, 82, 255);">
+   互操作性和可伸缩性的技术将有机会大放异彩
+  </span>
+  <span style="font-size: 15px;">
+   。在这波技术浪潮中，加密技术将对当权者构成真正的威胁。从这开始，关于安全和去中心化的讨论将开始显得越来越重要。怀疑主义将开始怀疑这场运动的意识形态，这个时候不用再怀疑产品市场的适合性问题了。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   在我看来，web3
+  </span>
+  <span style="color: rgb(136, 136, 136);">
+   <em>
+    <span style="color: rgb(136, 136, 136);font-size: 14px;">
+     （去中心化的 Twitter/Facebook 等）
+    </span>
+   </em>
+  </span>
+  <span style="font-size: 15px;">
+   的愿景将出现在这一代人身上。更大的市场空间在于可扩展性技术，以及更重要的一个方向是，用户自我拥有数据主权的需求更迫切了。
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;margin-left: 8px;margin-right: 8px;">
+  <img class="rich_pages" data-copyright="0" data-ratio="0.5236994219653179" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/jNibHMrCMWaYIo7l1hGibn5ibHDHG8usEH82CrONUsqUvwP9tScZpibgEy1LvicbcYdFzT240fMfic8Ojiaf48tWxHIibw/640?wx_fmt=png" data-type="png" data-w="865" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <strong>
+   <span style="font-size: 17px;color: rgb(0, 82, 255);">
+    未来究竟如何？
+   </span>
+  </strong>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="margin-left: 8px;margin-right: 8px;">
+  <span style="font-size: 15px;">
+   总结一下，下面是一些我个人的预测：
+  </span>
+ </p>
+ <ul class="list-paddingleft-2" style="list-style-type: square;margin-left: 8px;margin-right: 8px;">
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style="font-size: 15px;color: rgb(0, 82, 255);">
+     在扩张浪潮之前，还会有 1-2 个投机浪潮
+    </span>
+    <span style="font-size: 15px;">
+     。每一波投机浪潮都会比之前的一波高出 10 倍。
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     监管将发挥次要作用。加密技术的吸引力在于参与不受监管的金融市场。相反的证据
+    </span>
+    <span style="color: rgb(136, 136, 136);">
+     <em>
+      <span style="color: rgb(136, 136, 136);font-size: 14px;">
+       （例如证券型代币）
+      </span>
+     </em>
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     很少。虚构的资产将是巨大的赢家。
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;color: rgb(0, 82, 255);'>
+     随着 Layer 2 扩展解决方案的激增，那些核心价值是速度和可扩展性的 Layer 1 底层区块链所具有的优势不复存在
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     。治理和社区可能是价值差异点，但同样也是次要的。
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;color: rgb(0, 82, 255);'>
+     在短期内，可扩展性并没有那么重要
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     。找到适合的产品市场才是重中之重。
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;color: rgb(0, 82, 255);'>
+     Polkadot、DFINITY、Cosmos 等是在与以太坊 2.0 竞争，而不是与当前的区块链展开竞争
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     。如果他们能够依次实现自己的技术，并且有不错的社区
+    </span>
+    <span style="color: rgb(136, 136, 136);">
+     <em>
+      <span style="color: rgb(136, 136, 136);font-size: 14px;">
+       （这个社区可不是一个靠金钱买来的社区）
+      </span>
+     </em>
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     ，他们在历史上会有一个短暂的时刻有机会脱颖而出。
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="margin-left: 8px;margin-right: 8px;">
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;color: rgb(0, 82, 255);'>
+     技术问题最容易解决
+    </span>
+    <span style='font-size: 15px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+     。让人们相信这场运动背后的意识形态是最困难的。我们对安全的假设仍然处于沙箱中，它们仍然需要针对真实世界的攻击来进行测试。
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p>
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <img class="__bg_gif" data-copyright="0" data-ratio="0.08571428571428572" data-src="https://mmbiz.qpic.cn/mmbiz_gif/jNibHMrCMWaaXFvFwt5zYbhr1qg0EqMv0j4g7uKLl4x3eZEHHRoQpJs69xR9XMUDp03TV1v9qgNghhpvN3ib2Ngw/640?wx_fmt=gif" data-type="gif" data-w="700" style="text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 677px !important;"/>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <span style="max-width: 100%;font-size: 15px;background-color: rgb(0, 82, 255);color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    项目专题 | Lightning 移动钱包全收录
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;color: rgb(136, 136, 136);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   专题详细内容请点击「阅读原文」查看
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="556" data-cropsely1="0" data-cropsely2="371" data-ratio="0.6666666666666666" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/jNibHMrCMWaYVvmbo5KfYjqQ80Ey2qCum5QzgaUnPExGYaRCKqu0ibk23A1Z74SSCTIUwuleicMG6KoIn7OAGGshw/640?wx_fmt=jpeg" data-type="jpeg" data-w="720" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 556px !important;"/>
+ </p>
+ <p style="margin-right: 48px;margin-left: 48px;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(136, 136, 136);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   在闪电网络的生态产品不断迭代演进的过程中，
+   <strong style="max-width: 100%;letter-spacing: 0.544px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    Block123.com
+   </strong>
+   <span style="max-width: 100%;letter-spacing: 0.544px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   </span>
+   整理出目前可见的移动钱包，以便于读者系统地了解现状。
+  </span>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <img class="__bg_gif" data-copyright="0" data-ratio="0.08571428571428572" data-src="https://mmbiz.qpic.cn/mmbiz_gif/jNibHMrCMWaaXFvFwt5zYbhr1qg0EqMv0j4g7uKLl4x3eZEHHRoQpJs69xR9XMUDp03TV1v9qgNghhpvN3ib2Ngw/640?wx_fmt=gif" data-type="gif" data-w="700" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 677px !important;"/>
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <img class="" data-copyright="0" data-ratio="0.3328125" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/jNibHMrCMWaaOz1wsia8R0r1P5ESibym3gS13fThnuicQGOrXEichDotLycm34WiapqkrERq4MxV58y7ahV1MxFOSMwg/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 677px !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(255, 255, 255);font-size: 14px;font-weight: 700;background-color: rgb(0, 82, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   ⚡️
+  </span>
+  <span style="max-width: 100%;color: rgb(255, 255, 255);font-weight: 700;background-color: rgb(0, 82, 255);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   「
+   <strong style="max-width: 100%;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    Lightning 移动钱包」闪电专题
+   </strong>
+  </span>
+ </p>
+</div>
